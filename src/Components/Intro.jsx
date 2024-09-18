@@ -2,6 +2,7 @@ import profile from "../assets/profile.jpeg";
 import React from 'react'
 import { FaCloudDownloadAlt } from "react-icons/fa";
 import {motion} from 'framer-motion'
+import { ABOUT_TEXT } from "../constants";
 
 const containerVariants = {
     hidden: {
@@ -68,11 +69,10 @@ function Intro() {
                         Full Stack Web Developer
                     </motion.span>
                     <motion.p className="my-2 max-w-2xl py-6 text-xl leading-relaxed tracking-tighter text-center lg:text-left lg:text-2xl text-stone-200" variants={childVariants}>
-                        I am a dedicated full-stack developer with a passion for building scalable and efficient web applications. Over the years, I have developed a strong command of front-end technologies like React.js, Next.js, JavaScript and TypeScript, alongside back-end technologies such as Node.js, Express.js, MongoDB, PostgreSQL, and Prisma. My focus is on delivering high-performance applications that solve real-world problems while ensuring seamless user experiences and driving impactful business outcomes.
+                        {ABOUT_TEXT}
                     </motion.p>
 
-                    <motion.a variants={childVariants} href="/resume.pdf"
-                        target="_blank"
+                    <motion.a variants={childVariants} href="https://drive.google.com/uc?export=download&id=1JUL_8QDohOzP7wKacAYp5b1I9I3utP9B"
                         rel="noopener noreferrer"
                         download
                         className="bg-gradient-to-r from-[#5273cd] to-[#c639c6] text-white mb-10 rounded-3xl p-3 px-6 text-lg flex justify-center items-center gap-2 hover:from-white hover:to-white hover:text-black"

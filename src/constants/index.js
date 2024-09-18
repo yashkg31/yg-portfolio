@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 
-export const ABOUT_TEXT = `I am a dedicated and adaptable full stack developer with a passion for building intuitive and high-performing web applications. My experience spans across front-end frameworks like React and Next.js, and back-end technologies such as Node.js, PostgreSQL, and MongoDB. I constantly seek opportunities to learn and improve, tackling challenges with creativity and a keen focus on delivering impactful solutions. Outside of development, I enjoy singing, playing guitar, cycling, and cooking, which provide me with balance and inspiration beyond coding.`;
+export const ABOUT_TEXT = `I am a dedicated and adaptable full stack developer with a passion for building intuitive and high-performing web applications. My experience spans across front-end frameworks like React.js, Next.js, JavaScript and TypeScript, alongside back-end technologies such as Node.js, Express.js, PostgreSQL, MongoDB and Prisma. I constantly seek opportunities to learn and improve, tackling challenges with creativity and a keen focus on delivering impactful solutions. Outside of development, I enjoy singing, playing guitar, cycling, and cooking, which provide me with balance and relaxation beyond coding.`;
 
 export const EXPERIENCES = [
   {
