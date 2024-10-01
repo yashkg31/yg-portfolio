@@ -65,7 +65,7 @@ function Intro() {
                     <motion.h2 className="pb-2 text-4xl font-bold lg:text-7xl bg-gradient-to-r from-stone-100 to-stone-500 bg-clip-text text-transparent" variants={childVariants}>
                         Yash Gupta
                     </motion.h2>
-                    <motion.span className="bg-gradient-to-r from-[#7298ff] to-[#f750f8] bg-clip-text text-transparent text-3xl lg:text-4xl tracking-tight" variants={childVariants}>
+                    <motion.span className="text-center bg-gradient-to-r from-[#7298ff] to-[#f750f8] bg-clip-text text-transparent text-3xl lg:text-4xl tracking-tight" variants={childVariants}>
                         Full Stack Web Developer
                     </motion.span>
                     <motion.p className="my-2 max-w-2xl py-6 text-xl leading-relaxed tracking-tighter text-center lg:text-left lg:text-2xl text-stone-200" variants={childVariants}>
