@@ -5,12 +5,26 @@ export const ABOUT_TEXT = `I am a dedicated and adaptable full stack developer w
 
 export const EXPERIENCES = [
   {
+    year: "October 2024 - December 2024",
+    role: "Full-Stack Dev Intern",
+    company: "Ezaix Inc.",
+    description: `Contributed to the development of an integrated MS Copilot license management ecosystem with a real-time analytics dashboard and cross-platform desktop app, enhancing efficiency by 30% for 2500+ users per department. Improved the UI of the MS Teams telephony platform (TeamsCoreIQ), reducing web application load times by 20% through scalable architecture and modern ReactJS practices. Resolved 40+ front-end bugs and implemented a shared component architecture, reducing code redundancy, boosting development velocity, and improving overall maintainability.`,
+    technologies: ["Javascript", "React.js", "Electron.js", "Material UI", "Ant Design", "Apex Charts"],
+  },
+  {
+    year: "September 2024 - October 2024",
+    role: "SDE Intern",
+    company: "Keychain",
+    description: `Developed event-driven microservices using NodeJS, TypeScript, and Apache Kafka, improving inter-service communication efficiency by 35% and enabling real-time payment processing on Solana blockchain. Designed a secure authentication system integrating Privy and ZeroDev for Web3 wallets, reducing onboarding time by 30% and enhancing payment security. Architected a scalable notification system with Amazon SNS, delivering 10K+ daily notifications with a 95% delivery rate while optimizing database queries using Sequelize ORM.`,
+    technologies: ["Node.js", "TypeScript", "Apache Kafka", "MongoDB", "MySQL", "Sequelize ORM", "Amazon SNS", "Privy", "ZeroDev"],
+  },
+  {
     year: "May 2023 - August 2023",
-    role: "Software Development Internship",
+    role: "Software Development Intern",
     company: "KoobBox Tech Pvt. Ltd.",
     description: `Contributed to the development and maintenance of web applications, implementing features like responsive design, effective state management, and optimized page load times. Collaborated with stakeholders to gather requirements, participated in code reviews, and played a key role in migrating the tech stack from Angular to React, ensuring smooth project execution and timely delivery.`,
     technologies: ["Javascript", "React.js", "Recoil", "Tailwind CSS"],
-  }
+  },
 ];
 
 export const PROJECTS = [
