@@ -8,7 +8,7 @@ export const EXPERIENCES = [
     year: "October 2024 - December 2024",
     role: "Full-Stack Dev Intern",
     company: "Ezaix Inc.",
-    description: `Contributed to the development of an integrated MS Copilot license management ecosystem with a real-time analytics dashboard and cross-platform desktop app, enhancing efficiency by 30% for 2500+ users per department. Improved the UI of the MS Teams telephony platform (TeamsCoreIQ), reducing web application load times by 20% through scalable architecture and modern ReactJS practices. Resolved 40+ front-end bugs and implemented a shared component architecture, reducing code redundancy, boosting development velocity, and improving overall maintainability.`,
+    description: `During my internship at Ezaix Inc., I contributed to the development of an integrated MS Copilot license management system, including a real-time analytics dashboard and a cross-platform desktop app, improving efficiency for 2500+ users per department. I enhanced the MS Teams telephony platform, TeamsCoreIQ, by optimizing its web application performance by 30% through scalable architecture and modern React.js practices. Additionally, I resolved 40+ frontend bugs, implemented a shared component architecture to reduce redundancy, and elevated overall development velocity and application maintainability.`,
     technologies: ["Javascript", "React.js", "Electron.js", "Material UI", "Ant Design", "Apex Charts"],
   },
   {
