@@ -16,7 +16,7 @@ export const EXPERIENCES = [
     role: "SDE Intern",
     company: "Keychain",
     description: `Developed event-driven microservices using NodeJS, TypeScript, and Apache Kafka, improving inter-service communication efficiency by 35% and enabling real-time payment processing on Solana blockchain. Designed a secure authentication system integrating Privy and ZeroDev for Web3 wallets, reducing onboarding time by 30% and enhancing payment security. Architected a scalable notification system with Amazon SNS, delivering 10K+ daily notifications with a 95% delivery rate while optimizing database queries using Sequelize ORM.`,
-    technologies: ["Node.js", "TypeScript", "Apache Kafka", "MongoDB", "MySQL", "Sequelize ORM", "Amazon SNS", "Privy", "ZeroDev"],
+    technologies: ["Node.js", "TypeScript", "Docker", "Apache Kafka", "MongoDB", "MySQL"],
   },
   {
     year: "May 2023 - August 2023",
