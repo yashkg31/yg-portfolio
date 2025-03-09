@@ -5,7 +5,7 @@ export const ABOUT_TEXT = `I am a dedicated and adaptable full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "October 2024 - December 2024",
+    year: "October 2024 - February 2025",
     role: "Full-Stack Dev Intern",
     company: "Ezaix Inc.",
     description: `During my internship at Ezaix Inc., I contributed to the development of an integrated MS Copilot license management system, including a real-time analytics dashboard and a cross-platform desktop app, improving efficiency for 2500+ users per department. I enhanced the MS Teams telephony platform, TeamsCoreIQ, by optimizing its web application performance by 30% through scalable architecture and modern React.js practices. Additionally, I resolved 40+ frontend bugs, implemented a shared component architecture to reduce redundancy, and elevated overall development velocity and application maintainability.`,

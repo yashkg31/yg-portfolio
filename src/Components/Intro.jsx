@@ -72,7 +72,7 @@ function Intro() {
                         {ABOUT_TEXT}
                     </motion.p>
 
-                    <motion.a variants={childVariants} href="https://drive.google.com/uc?export=download&id=1-j6lXfWD6S1wOUvgwEqeQK41NJeAI9Zz"
+                    <motion.a variants={childVariants} href="https://drive.google.com/uc?export=download&id=1Czr8_4PezPFIBDgLtvJnlPsCWvLDipeD"
                         rel="noopener noreferrer"
                         download
                         className="bg-gradient-to-r from-[#5273cd] to-[#c639c6] text-white mb-10 rounded-3xl p-3 px-6 text-lg flex justify-center items-center gap-2 hover:from-white hover:to-white hover:text-black"
